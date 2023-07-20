@@ -23,7 +23,7 @@ class Pattern {
     }
 }
 
-public class program41_1 {
+public class program41_3 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
